@@ -1,4 +1,4 @@
-# student_data
+# Student Management App
 
 A new Flutter project.
 
