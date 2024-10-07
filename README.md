@@ -1,10 +1,8 @@
 # Student Management App
 
-A new Flutter project.
+## Project Overview
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+This project is a student management app designed to help users manage student data efficiently. It provides functionalities such as displaying all students' data, adding new student data, updating existing data, and deleting student records. The app aims to have an eye-catching UI with easy-to-use and understand UX across all screens.
 
 A few resources to get you started if this is your first Flutter project:
 
